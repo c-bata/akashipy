@@ -1,5 +1,14 @@
 # akashi.py
 
+兵庫県明石市で開催しているPythonの勉強会です。
+明石高専の学生を中心にPythonを勉強しています。
+
+イベントページ: http://akashipy.connpass.com/
+
+これまでペアプロ形式でBottle + SQLAlchemyを使ったWebアプリ開発のハンズオンを行なってきました。
+今後はもくもく会とかも開催していきたいと考えています。
+
+
 ## 講義ノート
 
 ipython notebookで`notebooks/`以下に講義ノートを作成しています。
