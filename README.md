@@ -48,7 +48,6 @@ $ ipython nbconvert python_grammer.ipynb --to slides --post serve
 
 自分がメモとしてまとめたい内容を中心に教えていってもいいかも
 
-* Flask、SQLAlchemy
 * pdb
 * ipython
 * unittest, tdd
